@@ -1,4 +1,4 @@
-# Lesson 1: PHP Basic Syntax
+# PHP Basic Syntax
 
 Variables se pehle PHP ka **basic syntax** samajhna zaroori hai. Syntax
 ka simple meaning hai: kisi programming language mein code likhne ke
