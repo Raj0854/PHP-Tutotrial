@@ -136,10 +136,10 @@ Apni `syntax.php` file banao aur ye program khud likho:
 // My first PHP practice
 
 echo "My name is Raj.";
-echo PHP_EOL;
+echo <br>;
 
 echo "I am learning PHP.";
-echo PHP_EOL;
+echo <br>;
 
 echo "PHP is interesting.";
 ```
